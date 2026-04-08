@@ -97,7 +97,7 @@ export function StepAdditionalInfo({
       {/* Header */}
       <header>
         <h1 className="text-2xl md:text-3xl font-bold text-foreground mb-2">
-          Zusätzliche Informationen
+          Anmerkungen
         </h1>
         <p className="text-muted-foreground">
           Teilen Sie uns weitere Details zu Ihrem Anliegen mit und laden Sie

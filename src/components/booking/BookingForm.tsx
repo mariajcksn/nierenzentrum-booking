@@ -34,7 +34,7 @@ const STEP_TITLES = [
   "Patientenstatus",
   "Versicherung",
   "Terminart",
-  "Zusätzliche Informationen",
+  "Anmerkungen",
   "Kontaktdaten",
   "Bestätigung",
 ];
